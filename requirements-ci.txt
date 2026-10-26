@@ -1,0 +1,7 @@
+flask
+sqlalchemy
+pillow
+numpy
+requests
+pytest
+flake8

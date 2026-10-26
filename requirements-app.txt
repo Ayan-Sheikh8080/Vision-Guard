@@ -1,0 +1,7 @@
+tensorflow-cpu>=2.16,<2.20
+flask
+sqlalchemy
+psycopg2-binary
+pillow
+numpy
+requests

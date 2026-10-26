@@ -1,0 +1,6 @@
+{% extends "base.html" %}{% block body %}
+<div class="card"><h1 class="{{ 'ai' if label.startswith('AI') else 'real' }}">{{ label }}</h1>
+<p>File: {{ name }} | Model version: {{ ver }}</p>
+<div class="bar"><div style="width:{{ conf }}%">{{ conf }}%</div></div>
+<p class="caveat">Caveat: no detector is perfect. This is a probability, not proof.</p>
+<a href="/">Check another</a></div>{% endblock %}

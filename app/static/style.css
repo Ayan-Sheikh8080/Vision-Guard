@@ -1,0 +1,7 @@
+body{font-family:system-ui,sans-serif;margin:0;background:#f4f6f8;color:#222}
+nav{background:#1f2a44;padding:14px 24px;display:flex;gap:24px}nav a,nav b{color:#fff;text-decoration:none}
+main{max-width:800px;margin:30px auto;padding:0 16px}.card{background:#fff;padding:24px;border-radius:10px;box-shadow:0 2px 8px #0002}
+button{background:#2b6cb0;color:#fff;border:0;padding:10px 18px;border-radius:6px;cursor:pointer}
+table{width:100%;border-collapse:collapse;background:#fff}th,td{padding:8px;border-bottom:1px solid #ddd;text-align:left}
+.bar{background:#ddd;border-radius:6px}.bar div{background:#2b6cb0;color:#fff;padding:6px;border-radius:6px;min-width:40px}
+.ai{color:#c53030}.real{color:#2f855a}.caveat{color:#666;font-style:italic}

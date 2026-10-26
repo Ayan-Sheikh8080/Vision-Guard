@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+mlruns/
+results/
+*.keras
+/data/raw
+/data/raw/
+audit.csv
+.ipynb_checkpoints/

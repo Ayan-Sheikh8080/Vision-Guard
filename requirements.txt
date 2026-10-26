@@ -1,0 +1,17 @@
+tensorflow>=2.16,<2.20
+pandas
+pillow
+matplotlib
+seaborn
+scikit-learn
+mlflow
+dagshub
+dvc
+keras-tuner
+flask
+sqlalchemy
+psycopg2-binary
+python-dotenv
+requests
+pytest
+flake8

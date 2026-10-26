@@ -1,0 +1,9 @@
+venv/
+data/
+.git/
+mlruns/
+results/
+.env
+__pycache__/
+*.keras
+tests/

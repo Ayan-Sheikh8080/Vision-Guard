@@ -1,0 +1,5 @@
+{% extends "base.html" %}{% block body %}
+<h1>Is this image AI-generated or real?</h1>
+<form method="post" action="/predict" enctype="multipart/form-data" class="card">
+<input type="file" name="file" accept="image/png,image/jpeg,image/webp" required>
+<button type="submit">Analyse</button></form>{% endblock %}
